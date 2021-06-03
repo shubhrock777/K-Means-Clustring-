@@ -5,3 +5,7 @@ k-means clustering is a method of vector quantization, originally from signal pr
 1st 
 
 1.)	Perform clustering (K means clustering) for the airlines data to obtain optimum number of clusters. Draw the inferences from the clusters obtained. Refer to EastWestAirlines.xlsx dataset.
+ 
+2nd
+
+2.)	Perform clustering for the crime data and identify the number of clusters formed and draw inferences. Refer to crime_data.csv dataset.
