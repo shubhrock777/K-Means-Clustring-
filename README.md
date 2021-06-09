@@ -9,3 +9,7 @@ k-means clustering is a method of vector quantization, originally from signal pr
 2nd
 
 2.)	Perform clustering for the crime data and identify the number of clusters formed and draw inferences. Refer to crime_data.csv dataset.
+
+3rd
+
+3.)	Analyze the information given in the following ‘Insurance Policy dataset’ to create clusters of persons falling in the same type. Refer to Insurance Dataset.csv
